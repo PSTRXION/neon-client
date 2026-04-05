@@ -3,7 +3,7 @@ Neon client oyunda sizin zorlanmadan herşeyi tek bir clientten erişmenizi sağ
 Şuanda geliştirme aşamasındayız lütfen sabırlı olun tam gaz devam ediyoruz.
 # Çalıştırma
 
-```loadstring(game:HttpGet("https://raw.githubusercontent.com/PSTRXION/roblox-scripts/main/neon-client-v3.0.lua"))()```
+`loadstring(game:HttpGet("https://raw.githubusercontent.com/PSTRXION/roblox-scripts/main/neon-client-v3.0.lua"))()`
 
 # Keyler(Keys)
 Key için instagramdaki pstrxion.inc hesabını takip edip dm den key yazıp alabilirsiniz.
