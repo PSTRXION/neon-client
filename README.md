@@ -10,3 +10,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/PSTRXION/roblox-scrip
 
 # Keyler(Keys)
 Key için instagramdaki pstrxion.inc hesabını takip edip dm den key yazıp alabilirsiniz.
+
+# DİPNOT:
+Premiumunuzun çalışması için en güncel sürümü kullanmanız gerekmektedir aksi takdirde çalışmayacaktır.
