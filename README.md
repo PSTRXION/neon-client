@@ -9,8 +9,9 @@ Aşağıdaki kodu kopyalayarak en güncel neon-client e erişim sağlayabilirsin
 loadstring(game:HttpGet("https://raw.githubusercontent.com/PSTRXION/neon-client/main/neon-client.lua"))()
 ```
 
-# Keyler(Keys)
-Key için instagramdaki pstrxion.inc hesabını takip edip dm den key yazıp alabilirsiniz.
+# ŞİFRE
+Yazılımımız şifre ile korunmaktadır.
+Neon client e erişmek için instagram üzerinden pstrxion.inc hesabını takip edip dm den yazmanız gerekmektedir.
 
 # DİPNOT:
 Premiumunuzun çalışması için en güncel sürümü kullanmanız gerekmektedir aksi takdirde çalışmayacaktır.
