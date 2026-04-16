@@ -2,7 +2,7 @@
 Neon client oyunda sizin zorlanmadan herşeyi tek bir clientten erişmenizi sağlayan ve bunu amaçlayan clienttir.
 Şuanda geliştirme aşamasındayız lütfen sabırlı olun tam gaz devam ediyoruz.
 
-# Çalıştırma
+# Çalıştırma 
 Aşağıdaki kodu kopyalayarak en güncel neon-client e erişim sağlayabilirsiniz.
 
 ```lua
